@@ -17,3 +17,11 @@ This interactive dashboard helps businesses and analysts gain insights into sale
 - `PBIX File/` – Power BI project file.  
 - `Reports/` – Exported insights in PDF/PNG format.  
 - `Documentation/` – Detailed explanation of dashboards and metrics.  
+
+## 🖼️ Dashboard Preview  
+![Image](https://github.com/user-attachments/assets/99a8635c-7520-47b7-8913-b3a418fa572d)
+*Overview of total sales and key performance metrics*  
+
+
+
+🌟 **Star this repository** to stay updated with new features! 🚀  
